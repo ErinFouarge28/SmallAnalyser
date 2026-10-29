@@ -1,0 +1,7 @@
+function main() {
+    a = 0;
+    b = a + 1;
+    c = a - 1;
+    d = a - 0;
+    return 0;
+}
